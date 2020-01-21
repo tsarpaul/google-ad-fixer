@@ -2,8 +2,6 @@
    background: rgb(254, 251, 231);
    padding: 10px;
    border-radius: 5px;
-   max-height: 65px;
-   overflow: scroll;
    border: 1px solid rgb(222, 167, 57);
 }
 

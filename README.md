@@ -1,4 +1,4 @@
-# google-ad-fixer
+# google-ad-fixer - FORKED FOR FIREFOX
  
 Google's new redesign makes it almost impossible to tell which results are ads: https://news.ycombinator.com/item?id=22107823
 
